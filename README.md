@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **gudurubharatkumar8@gmail.com**
 
-- 🌐 You Need More Info Reachout My Portfolio Website **https://bharatkumarg.github.io/PortfolioWebsite/**
+- 🌐 You need more info about my skills and projects reachout my portfolio website  **https://bharatkumarg.github.io/PortfolioWebsite/**
 
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gudurubharatkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divyasatpute" height="30" width="40" /></a>
